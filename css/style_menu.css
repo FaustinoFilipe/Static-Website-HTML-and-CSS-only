@@ -1,0 +1,49 @@
+.menu ul{
+	background-color: teal;
+	width: 1000px;
+	height: 40px;
+	list-style	: none; 					
+    margin		: auto;
+    padding: 0px;
+}
+.menu ul li{
+	float		: left;					
+	position	: relative;
+	text-align: center;
+	margin-top: 5px;
+}
+.menu ul li a{
+	text-decoration	: none;					
+	display 		: block;
+	padding			: 2px 20px;					
+	color			:white;
+	font-family		: calibri;	
+	font-size       : 18px;			
+}
+.menu ul li ul{
+	display				: none;
+}
+.menu ul li:hover ul{
+	display			: block;					
+	position		: absolute;
+	width			: 150px;
+	height: auto;					
+	background-color: teal;
+	border-radius	: 0 0 10px 10px;			
+	padding-bottom	: 10px;
+}
+.menu ul li:hover ul li a:hover{
+	font-size: 18px;
+	color:coral;
+}
+.menu ul li ul li {
+	border 		: 0;		
+	padding		: 3px 0px 5px;
+	border-bottom : 1px solid #fff;			
+	width		: 150px;
+}
+.menu ul li:hover > a {
+    font-size: 20px;
+    color: hotpink;
+}
+

@@ -1,0 +1,35 @@
+body{
+	background-image: url(WB02218_.GIF);
+	margin: auto;
+	padding: 0px;
+
+}
+h3{
+	font-family: verdana;
+	font-size: 18px;
+	text-align: center;
+	padding-right: 150px;
+	padding-left: 150px;
+
+}
+h3 a{
+	font-size: 16px;
+	text-decoration: none;
+	color: blue;
+
+}
+h1{
+	text-align: center;
+	font-family: arial;
+
+}
+h4 {
+	font-size: 14px;
+	font-family: Georgia;
+	padding-right: 8px;
+	padding-left: 8px;
+}
+table{
+	border-style: dashed;
+
+}

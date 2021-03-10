@@ -1,0 +1,98 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ulun{
+    background-image: url(../imagen/ulun.jpg);
+    width: 1000px;
+    height: 130px;
+    margin:auto;
+}
+#continer{
+    width: 1000px;
+    height: 500px;
+    padding: auto;
+    margin: auto;
+}
+.conten{
+    background-image: url(../background/latarbelakang.GIF);
+    width: 750px;
+    height: 500px;
+    float: right;
+    padding: auto;
+}
+.sidebar{
+    background-image: url(../background/WB02055_.GIF);
+    width: 250px;
+    height: 500px;
+    float: right;
+    padding: auto;
+}
+.sidebar h1{
+    background-color: rgb(94, 67, 27);
+    width: auto;
+    height: 40px;
+    margin-top: auto;
+    padding-top: 5px;
+    color: rgb(182, 223, 182);
+    font-size: 24px;
+    font-family: monospace;
+    text-align: center;
+}
+.sidebar h3{
+    color: midnightblue;
+    font-size: 15px;
+    font-family: Verdana;
+    margin-left: 10px;
+    margin-top: auto;
+    padding: auto;
+
+}
+.sidebar h3 a{
+    text-decoration: none;
+}
+.sidebar h3 :hover{
+    color: rgb(58, 114, 95);
+    font-size: 16px;
+    
+}
+.sidebar h4{
+    font-size: 20px;
+    font-family:calibri;
+    color: sienna;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.sidebar button{
+    background-color: silver;
+    border: teal;
+    border-radius: 7px;
+    border-style:dashed;
+    height: 40px;
+    border-style: groove;
+}
+
+.footer{
+    background-color: rgb(85, 78, 78);
+    width: 1000px;
+    height: 80px;
+    margin: auto;
+    padding: auto;
+
+}
+.footer p{
+    color: beige;
+    text-align: center;
+    font-size: 15px;
+    margin-top: auto;
+    padding-top: 20px;
+    word-spacing: 5px;
+    font-family:'Trebuchet MS';
+
+}
+.footer p a{
+    color: beige;
+    text-decoration: none;
+
+}

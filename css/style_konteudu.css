@@ -1,0 +1,52 @@
+.titulu h1{
+    color: rgb(24, 21, 21);
+    text-align: start;
+    text-shadow: darkred;
+    font-family: Verdana;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 18;
+
+
+}
+.konteudu{
+    color: black;
+    text-align: justify;
+    margin: 10 10 10;
+    word-spacing: 4px;
+    font-family: Georgia, 'Times New Roman';
+    font-size: 14px;
+}
+.konteudu h4{
+    font-size: 20px;
+    font-family:calibri;
+    color: sienna;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.konteudu button{
+    background-color:rgb(233, 235, 160);
+    border:rgb(63, 185, 185);
+    height: 40px;
+    border-radius: 7px;
+    border-style: dashed;
+    
+}
+
+.conten h1{
+    text-align: left;
+    font-family: arial;
+    font-size: 24px;
+    color: red;
+    margin: 0 auto;
+    padding-top: 10px;
+    text-align: center;
+}
+.conten p{
+    font-size: 12px;
+    font-family: verdana;
+    word-spacing: 3px;
+    text-align: justify;
+    padding-right: 15px;
+    padding-left:15px;
